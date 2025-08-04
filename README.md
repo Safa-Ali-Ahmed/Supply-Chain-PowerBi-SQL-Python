@@ -50,17 +50,22 @@ This function was applied across multiple tables during the data preparation pro
 ---
 
 ### 📈 Dashboard Highlights
+![Green Modern Minimalist Ecosystem Presentation (1)](https://github.com/user-attachments/assets/54fd80ec-0ee9-45ba-bf0c-775b1d436f28)
+<img width="1327" height="882" alt="2" src="https://github.com/user-attachments/assets/bb7a26ed-6711-472b-8fe4-53248b600c7b" />
+<img width="1336" height="888" alt="3" src="https://github.com/user-attachments/assets/45892ffb-3151-467a-905e-4550285710a5" />
 
 #### 🧭 Inventory & Fulfillment KPIs
 - 🟢 **71K Total Inventory Units**
 - 🟡 Average Inventory Cost/Unit: **1.24**
 - 🔴 Fulfillment Delays by Product
 - 🏷️ Inventory by Warehouse, Category, and Region
+<img width="1351" height="895" alt="4" src="https://github.com/user-attachments/assets/2f99ffc1-a517-4d19-afeb-03c6935ccfac" />
 
 #### 🌍 Regional & Market Analysis
 - 🗺️ 5 Markets – 23 Regions – 135 Countries
 - 💸 Profit & Sales by Region / Country / Market
 - 🛒 Customer distribution by region and market
+<img width="1354" height="897" alt="1" src="https://github.com/user-attachments/assets/5dfad463-e9d9-4734-9bd3-1786e0a58cbe" />
 
 #### 📦 Product Insights
 - Top-selling products & departments (Outdoors, Fitness, Apparel...)
